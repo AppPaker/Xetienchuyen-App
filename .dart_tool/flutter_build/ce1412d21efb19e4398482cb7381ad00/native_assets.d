@@ -1,0 +1,1 @@
+ D:\\Startup\ Company\\github\\Xetienchuyen-App\\.dart_tool\\flutter_build\\ce1412d21efb19e4398482cb7381ad00\\native_assets.yaml: 

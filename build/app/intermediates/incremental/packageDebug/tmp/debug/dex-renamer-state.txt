@@ -1,0 +1,4 @@
+#Mon Aug 12 19:02:45 PKT 2024
+base.0=D\:\\Startup Company\\github\\Xetienchuyen-App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Mon Aug 12 19:53:39 PKT 2024
+base.0=D\:\\Startup Company\\github\\Xetienchuyen-App\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
